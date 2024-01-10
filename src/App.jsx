@@ -1,4 +1,3 @@
-
 import './App.css'
 
 import {
@@ -11,7 +10,6 @@ import LoginForm from './components/Login';
 import Product from './components/Products';
 function App() {
   
-
   return (
     <>
       <BrowserRouter>
